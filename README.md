@@ -1338,7 +1338,7 @@
                 "Today gave me YOU, and for that, it will forever be the most special day of my year."
             ],
             signoff: "Forever & Always,",
-            sender: "Yours Truly ❤️"
+            sender: "Yours Truly ❤️ batman 🥸"
         };
 
         function getStoredLetter() {
